@@ -18,6 +18,7 @@ touch postcss.config.js
 ## En el archivo package.json tener los siguientes scripts:
 
 "start": "webpack-dev-server --mode=development --config webpack.config.js"
+
 "build": "webpack --mode production"
 
 
