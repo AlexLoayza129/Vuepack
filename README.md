@@ -2,11 +2,11 @@
 
 npm install webpack webpack-cli webpack-dev-server --save-dev
 
-## Instalamos tailwindcss postcss-cli autoprefixer y SD
+## Instalamos tailwindcss postcss-cli autoprefixer
 
 npm install tailwindcss postcss-cli autoprefixer --save-dev
 
-## Instalamos el postcss loader y css loader y SD
+## Instalamos el postcss loader y css loader
 
 npm install postcss-loader css-loader style-loader --save-dev
 
